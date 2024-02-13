@@ -10,6 +10,7 @@ private:
     ImVec2 toolbarSize;
     ImVec2 size;
     ImVec2 canvasSize;
+    uint32_t data[64 * 64]{};
     Texture sprite;
 public:
     SpriteEditor();

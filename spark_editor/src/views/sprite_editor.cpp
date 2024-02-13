@@ -1,7 +1,6 @@
 #include "spark_editor/views/sprite_editor.h"
 
 SpriteEditor::SpriteEditor() {
-
 }
 
 SpriteEditor::~SpriteEditor() = default;
